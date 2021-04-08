@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  console-chart:
+  - apiVersion: v1
+    appVersion: 2.0.0
+    created: "2021-04-08T14:25:34.920695-04:00"
+    description: Helm chart for Open Cluster Management Console
+    digest: 23e3e3ec28f802c4f426069040f8177277f3049e60265b1c595c8f66b948cd8e
+    keywords:
+    - ui
+    kubeVersion: '>=1.10.0-0'
+    name: console-chart
+    urls:
+    - https://kevinfcormier.github.io/console-chart/charts/console-chart-2.3.0.tgz
+    version: 2.3.0
+generated: "2021-04-08T14:25:34.914522-04:00"
